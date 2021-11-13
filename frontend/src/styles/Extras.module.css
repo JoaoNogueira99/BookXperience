@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600&display=swap');
+.imagemCarousel{
+    
+    width: 180px;
+    height: 280px;
+    align-items: center;
+    margin: 0;
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 7px;
+}
+
+
+.quote{
+text-align: center;
+    padding-top: 30px;
+}
+
+p{
+    color: black;
+}
+.itensCarousel{
+    margin-top: -30px;
+    height: 420px;
+}
+.itensCarouselQ{
+    height: 200px;
+}
+.titulo{
+   
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 23px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.tituloQ{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.carousel{
+    background-color:rgba(255, 132, 0, 0.02);
+}
+
+.carousel-indicators {
+    margin-top: 20px;
+}
+
+.carouselQ {
+    height: 200px;
+   
+}
+
+.quote {
+    color: #000;
+    padding-top: 1rem;
+}
+
+.top10 {
+    margin-top: -18px;
+    background-color: rgba(255, 132, 0, 0.845); 
+}
+.autorTitulo{
+    color: black;
+}
+
+.imagemTop {
+}
+
+.numero {
+    position: absolute;
+    bottom: 50px;
+    left: 30%;
+
+    transform: translateX(-50%);
+
+    font-size: 100px;
+    color: #fff;
+    font-weight: 600;
+    
+    text-shadow: 3px 3px 3px #000;
+}

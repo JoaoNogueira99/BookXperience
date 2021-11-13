@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600&display=swap');
+.imagemAutor {
+    height: 220px;
+    width: 170px;
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding: 0.22rem;
+
+}
+.imagem {
+    height: 270px;
+    width: 170px;
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding: 0.2rem;
+    margin: 0.2rem 0.17rem 0.2rem 0.17rem;
+}
+.livros {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+figure{
+    padding: 0.2rem;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 15px;
+}
+.autores {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+figcaption {
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    margin: 0 0.22rem;
+    margin-top: -8px;
+}

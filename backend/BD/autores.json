@@ -1,0 +1,139 @@
+{"autores":[
+    {
+        "autor": "Eça de Queirós",
+        "imagemAutor": "/autores/Eca-De-Queiros.jfif"
+    }, 
+    {
+        "autor": "Chimamanda Adichie",
+        "imagemAutor": "/autores/Chimamanda-Ngozi-Adichie.jfif"
+    }, 
+    {
+        "autor": "David Nicholls",
+        "imagemAutor": "/autores/David-Nicholls.jpg"
+    },
+    {
+        "autor": "Jojo Moyes",
+        "imagemAutor": "/autores/Jojo-Moyes.jfif"
+    },
+    {
+        "autor": "Cecelia Ahern",
+        "imagemAutor": "/autores/Cecelia-Ahern.jfif"
+    },
+    {
+        "autor":"Arthur Conan Doyle",
+        "imagemAutor": "/autores/Arthur-Conan-Doyle.jfif"
+    },
+    {
+        "autor":"Richard Zimler",
+        "imagemAutor": "/autores/Richard-Zimler.jfif"
+    },
+    {
+        "autor":"Hervé le Tellier",
+        "imagemAutor": "/autores/Herve-Le-Tellier.jfif"
+    },
+    {
+        "autor":"Joël Dicker",
+        "imagemAutor": "/autores/Joel-Dicker.jfif"
+    },
+    {
+        "autor":"Ray Bradbury",
+        "imagemAutor": "/autores/Ray-Bradbury.jfif"
+    },
+    {
+        "autor":"Kass Morgan",
+        "imagemAutor": "/autores/Kass-Morgan.jpg"
+    },
+    {
+        "autor":"Arthur C. Clarke",
+        "imagemAutor": "/autores/Arthur-C-Clarke.jfif"
+    },
+    {
+        "autor":"Ted Chiang",
+        "imagemAutor": "/autores/Ted-Chiang.jfif"
+    },
+    {
+        "autor":"Orson Scott Card",
+        "imagemAutor": "/autores/Orson-Scott-Card.jfif"
+    },
+    {
+        "autor":"Markus Zusak",
+        "imagemAutor": "/autores/Markus-Zusak.jfif"
+    },
+    {
+        "autor":"Victor Hugo",
+        "imagemAutor": "/autores/Victor-Hugo.jfif"
+    },
+    {
+        "autor":"Anne Frank",
+        "imagemAutor": "/autores/Anne-Frank.jfif"
+    },
+    {
+        "autor":"John Boyne",
+        "imagemAutor": "/autores/John-Boyne.jfif"
+    },
+    {
+        "autor":"Heather Morris",
+        "imagemAutor": "/autores/Heather-Morris.jfif"
+    },
+    {
+        "autor":"Normand Baillargeon",
+        "imagemAutor": "/autores/Normand-Baillargeon.jfif"
+    },
+    {
+        "autor":"Lesley Levene",
+        "imagemAutor": "/autores/Lesley-Levene.jfif"
+    },
+    {
+        "autor":"Mary Midgley",
+        "imagemAutor": "/autores/Mary-Midgley.jfif"
+    },
+    {
+        "autor":"Oscar Brenifier",
+        "imagemAutor": "/autores/Oscar-Brenifier.jfif"
+    },
+    {
+        "autor":"Bertrand Russell",
+        "imagemAutor": "/autores/Bertrand-Russell.jfif"
+    },
+    {
+        "autor":"Robert Kiyosaki",
+        "imagemAutor": "/autores/Robert-Kiyosaki.jfif"
+    },
+    {
+        "autor":"Mary Buffett",
+        "imagemAutor": "/autores/Mary-Buffett.jfif"
+    },
+    {
+        "autor":"Adam Smith",
+        "imagemAutor": "/autores/Adam-Smith.jfif"
+    },
+    {
+        "autor":"Alexis de Tocqueville",
+        "imagemAutor": "/autores/Alexis-De-Tocqueville.jfif"
+    },
+    {
+        "autor":"David A. Moss",
+        "imagemAutor": "/autores/David-A.-Moss.jfif"
+    },
+    {
+        "autor":"Jacques Rousseau",
+        "imagemAutor": "/autores/Jean-Jacques-Rousseau.jfif"
+    },
+    {
+        "autor":"Nicolau Maquiavel",
+        "imagemAutor": "/autores/Nicolau-Maquiavel.jfif"
+    },
+    {
+        "autor":"Karl Marx",
+        "imagemAutor": "/autores/Karl-Marx.jfif"
+    },
+    {
+        "autor":"John C. Bogle",
+        "imagemAutor": "/autores/John-C-Bogle.jfif"
+    },
+    {
+        "autor":"Saifedean Ammous",
+        "imagemAutor": "/autores/Saifedean-Ammous.jfif"
+    }
+
+    ]}

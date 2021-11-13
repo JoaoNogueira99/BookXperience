@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600&display=swap');
+.botaoG {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: #333;
+    background-color: rgba(248, 192, 108, 0.486);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    height: 65px;
+    padding: 0.5rem;
+    width: 160px;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 18px;
+    margin-bottom: 14px;
+}
+.livros {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

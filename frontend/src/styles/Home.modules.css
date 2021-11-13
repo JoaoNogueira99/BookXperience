@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600&display=swap');
+.paginaprincipal {
+    background-image: url("../folhas_bg_laranja.png");
+    height: 100vh;
+    margin: 0;
+    background-position: bottom;
+    background-size: cover;
+}
+.home{
+    display: block;
+    position: absolute;
+    flex-direction: column;
+    margin: auto;
+    left: 50%;
+    right: -50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.seta {
+    background-color: transparent;
+    border-style: none;
+    font-size: 25px;
+}
+
+.titulo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: 38px;
+    color: #fff;
+    text-shadow: 3px 3px 2px #333;
+    padding-top: 40px ;
+}
+
+.caixaPesquisa {
+    margin-top: 270px;
+    text-align: center;
+    
+}
+.explorar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.caixa {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.link{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    
+    color: black;
+    margin: 0 0.5rem; 
+    width: 103.5px;
+}
+
+.link button {
+    height: 70px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: #333;
+    background-color: rgba(240, 208, 165, 0.5);
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 10px;
+}
+
+.link button:hover {
+    background-color: #333;
+    box-shadow: 0px 0px 16px rgba(255, 132, 0, 0.845);
+    color: #fff;
+    transform: translateY(-2px);
+}
+
+.link:hover {
+    text-decoration: none;
+}
+
+.geral {
+    text-align: center;
+    background-color: rgba(255, 132, 0, 0.845);
+    padding-bottom: 25px;
+    margin-top: 4rem;
+}
+
+
+
+.barra {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 80vw;
+    background: #333333;
+    color: #fafafa;
+
+    transform: translateX(-100%);
+
+    transition: transform 300ms ease-out;
+    z-index: 9999;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.barra.open {
+    transform: translateX(0);
+}
+
+.navBar {
+    z-index: 99999999999;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    background-color: #333;
+    position: relative; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    left: 0;
+    width: 100%; /* Full width */
+    position: fixed;
+    line-height: 4rem;
+    padding: 0 1rem;
+}
+
+
+.nome{
+    margin-left: 4px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 100;
+    margin-top: 0.3rem;
+}
+
+.nome1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 100;
+    margin-right: 2rem;
+    margin-top: 0.3rem;
+    margin-left: 7px;
+}
+
+
+.nome:hover{
+    color: #fff;
+}
+
+ .itemC{
+    margin-left: 9px;
+    color: white;
+    margin-left: 9px;
+    
+}
+
+.itemW{
+    color: white;
+} 
+
+.items{
+    margin-left: 60px;
+    margin-top: 0.23rem;
+}
+
+.items a:hover{
+    color: #fff;
+    
+}
+
+.barra-pesquisa {
+    width: 76vw;
+    text-align: center;
+    height: 40px;
+    border-radius: 4px;
+    border-style: none;
+}
+
+.barra-pesquisa::placeholder {
+    font-size: 16px;
+}
+
+.pesquisar {
+    margin-left: 0.5rem;
+    width: 50px;
+    height: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    margin-top: 10px;
+  }
+
+.casa1 {
+   margin-left: 5px;
+      margin-top: 1.7rem;
+      color: white;
+  }
+
+  .casa {
+    margin-left: 10px;
+    margin-top: 1.7rem;
+    color: white;
+}

@@ -1,0 +1,355 @@
+{
+    "livros": [ 
+        {
+            "id": "",
+            "titulo": "Os Maias",
+            "genero": "Romance",
+            "autor": "Eça de Queirós",
+            "lancamento": 1888,
+            "imagem": "/imagens/maias.jpg", 
+            "avaliacao": 3,
+            "resumo": "Os Maias encerra uma crónica de costumes, retratando, com rigor fotográfico e muito humor, a sociedade lisboeta da segunda metade do século XIX. Trata-se da obra-prima de Eça de Queirós, publicada em 1888, e uma das mais importantes de toda a literatura portuguesa. Vale principalmente pela linguagem em que está escrita e pela fina ironia com que o autor define os caracteres e apresenta as situações. É um romance realista (e naturalista), onde não faltam o fatalismo, a análise social, as peripécias e a catástrofe próprios do enredo passional. A obra ocupa-se da história de uma família (Maia) ao longo de três gerações, centrando-se depois na última geração e dando relevo aos amores incestuosos de Carlos da Maia e Maria Eduarda. Mas a história é também um pretexto para o autor fazer uma crítica à situação decadente do país (a nível político e cultural) e à alta burguesia lisboeta oitocentista, por onde perpassa um humor (ora fino, ora satírico) que configura a derrota e o desengano de todas as personagens."
+        },
+        {
+            "id": "",
+            "titulo": "Americanah",
+            "genero": "Romance",
+            "autor": "Chimamanda Adichie",
+            "lancamento": 2013,
+            "imagem": "/imagens/Americanah.jpg",
+            "avaliacao": 3,
+            "resumo": "Ainda adolescentes, Ifemelu e Obinze apaixonam-se. A Nigéria vive dias sombrios sob o jugo de uma ditadura militar e quem pode abandonar o país fá-lo rapidamente. Ifemelu, bela e ousada, vai estudar para os Estados Unidos. Para trás, deixa o país, a família e Obinze, a quem chama Teto, um nome que testemunha uma intimidade absoluta e irrepetível. Obinze, introvertido e meigo, planeava juntar-se-lhe, mas a América do pós-11 de setembro  fecha-lhe as portas. Sem nada a perder, ele arrisca uma vida como imigrante ilegal em Londres. Anos mais tarde, na recém-formada democracia nigeriana, Obinze é um homem rico e poderoso. Nos Estados Unidos, Ifemelu também vingou: é autora de um blogue de culto. Mas há algo que nem a América nem o tempo conseguem apagar. E quando decide regressar à Nigéria, Ifemelu terá de reinventar uma linguagem comum com Obinze e encontrar o seu lugar num país muito diferente do que guardou na memória. \n Nome maior da literatura contemporânea, Chimamanda Ngozi Adichie disseca conceitos fundamentais tais como identidade, nacionalidade, raça, diferença, solidão e amor. \"Americanah\" parte de uma história de amor para construir um romance de ideias tão universal quanto implacável. Uma incontestada obra-prima."
+        },
+        {
+            "id": "",
+            "titulo": "Um Dia",
+            "genero": "Romance",
+            "autor": "David Nicholls",
+            "lancamento": 2009,
+            "imagem": "/imagens/umdia.jpg",
+            "avaliacao": 3,
+            "resumo": "Naquele dia, eles conheceram-se. E as suas vidas ficaram profundamente ligadas para sempre. Estamos em 1988, mais precisamente a 15 de julho: Dexter Mayhem e Emma Morley acabam de se conhecer na noite de formatura. Depois de passarem apenas um dia juntos, já não conseguem parar de pensar um no outro, mas têm de seguir caminhos diferentes. Onde estarão a 18 de julho do ano seguinte? E daqui a dois anos? Como serão as vidas de Dexter e Emma naquele mesmo dia, ao longo de duas décadas? Esta é a história de um encontro único, que junta as vidas de duas pessoas para sempre, mesmo se essas vidas implicam dois caminhos tão diferentes."
+        },
+        {
+            "id": "",
+            "titulo": "Simplesmente Acontece",
+            "genero": "Romance",
+            "autor": "Cecelia Ahern",
+            "lancamento": 2014,
+            "imagem": "/imagens/simplesmenteacontece.jpg",
+            "avaliacao": 3,
+            "resumo": "Uma história tão verdadeiramente possível que você até pode pensar que poderia ter acontecido com você. O que não a deixa menos emocionante. Rosie e Alex são amigos desde a infância, todos achavam que eles eram feitos um para o outro, menos eles dois. Os acontecimentos da vida os afastam e os unem em diferentes momentos, sem que eles consigam definir se são apenas amigos ou mais do que isso."
+        },
+        {
+            "id": "",
+            "titulo": "Viver depois de ti",
+            "genero": "Romance",
+            "autor": "Jojo Moyes",
+            "lancamento": 2011,
+            "imagem": "/imagens/Viver-Depois-de-Ti.jpg",
+            "avaliacao": 4,
+            "resumo": "Louisa Clark é uma jovem com uma vida banal - um namorado estável, trabalhador e uma família unida - que nunca saiu da aldeia onde sempre viveu. Quando fica desempregada, vê-se obrigada a aceitar um emprego em casa de Will Traynor, que vive preso a uma cadeira de rodas, depois de um acidente. Ele sempre tinha vivido de um modo trepidante - grandes negócios, desportos radicais, viajante incansável - agora tudo isso ficou para trás. Will é mordaz, temperamental e autoritário, mas Lou recusa tratá-lo com complacência e em breve a felicidade e o bem-estar dele tornam-se muito mais importantes do que ela esperaria. No entanto, quando Lou descobre que Will tem planos inconfessáveis para a sua vida, ela luta para lhe mostrar que ainda assim vale a pena viver. Em Viver depois de ti, Jojo Moyes aborda um tema difícil e controverso, com sensibilidade, obrigando-nos a refletir sobre o direito à liberdade de escolha e as suas consequências."
+        },
+        {
+            "id": "",
+            "titulo": "Ps: Eu Amo-te",
+            "genero": "Romance",
+            "autor": "Cecelia Ahern",
+            "lancamento": 2003,
+            "imagem": "/imagens/Ps-eu-amo-te.jpg",
+            "avaliacao": 4,
+            "resumo": "Uma história de amor eterna e inesquecível que conquistou milhões de leitores. Algumas pessoas esperam a vida inteira para encontrar a sua alma gémea, mas não é o caso de Holly e Gerry. Conheceram-se quando eram estudantes mas sentem que se conhecem desde sempre; foram feitos um para o outro. Cada um termina as frases do outro e, mesmo quando discutem, fazem-no a rir. Ninguém os pode imaginar separados."
+        },
+        {
+            "id": "",
+            "titulo": "As Aventuras de Sherlock Holmes",
+            "genero": "Policial e Thriller",
+            "autor": "Arthur Conan Doyle",
+            "lancamento": 1892,
+            "imagem": "/imagens/As-aventuras-de-sherlock-holmes.jpg",
+            "avaliacao": 4,
+            "resumo": "\"As Aventuras de Sherlock Holmes\", publicado pela primeira vez em 1892, reúne doze contos publicados inicialmente entre 1891 e 1892 na revista 'The Strand'.Nesta colectânea podemos encontrar, entre outros casos, \"Um Escândalo na Boémia\", que gira à volta da astuta Irene Adler, \"Um Caso de Identidade\", \"A Faixa Malhada\" ou \"O Mistério do Vale Boscombe\". Sempre coadjuvado pelo inestimável Doutor Watson, Sherlock Holmes nunca deixa por resolver os casos que lhe são apresentados. Graças ao método lógico-dedutivo, Holmes consegue sempre surpreender os leitores com as suas deduções, recorrendo às coisas mais triviais para solucionar mistérios aparentemente insolvíveis, com a inteligência e a acutilância que o transformaram numa das mais brilhantes e fascinantes personagens da Literatura policial."
+        },
+        {
+            "id": "",
+            "titulo": "Os Anagramas de Varsóvia",
+            "genero": "Policial e Thriller",
+            "autor": "Richard Zimler",
+            "lancamento": 2015,
+            "imagem": "/imagens/Os-Anagramas-de-Varsovia.jpg",
+            "avaliacao": 4,
+            "resumo": "Polónia, 1940. Os nazis isolam milhares de judeus num pequeno gueto em Varsóvia. Erik Cohen, um velho psiquiatra judeu, vê-se obrigado a partilhar um pequeno apartamento com a sobrinha e o adorado sobrinho-neto de nove anos, Adam. Certo dia, porém, Adam desaparece e o seu corpo, estranhamente mutilado, só é encontrado na manhã seguinte, no arame farpado sobre o muro que rodeia o gueto. Quando um segundo cadáver aparece em circunstâncias muito similares – desta vez o de uma rapariga judia –, Erik e o seu velho amigo Izzy tentam obter respostas, lançando-se numa investigação tão sinistra quanto perigosa. O mistério adensa-se e as dúvidas também. Serão os próprios nazis responsáveis por aquelas mortes ou estará um traidor judeu envolvido nos crimes? Neste thriller histórico comovente e arrepiante, Richard Zimler conduz o leitor aos recantos mais sombrios de Varsóvia, num périplo pela própria alma humana."
+        },
+        {
+            "id": "",
+            "titulo": "A Verdade Sobre o Caso Harry Quebert",
+            "genero": "Policial e Thriller",
+            "autor": "Joël Dicker",
+            "lancamento": 2013,
+            "imagem": "/imagens/A-verdade-sobre-o-caso-Harry-Quebert.jpg",
+            "avaliacao": 5,
+            "resumo": "Harry Quebert, professor universitário e um dos escritores mais respeitados do país, é preso e acusado de assassinar Nola Kellergan, depois de o cadáver da rapariga ser descoberto no seu jardim. Alguns meses antes, Marcus, amigo e discípulo de Harry, descobrira que o professor vivera um romance com Nola, pouco tempo antes do desaparecimento da jovem. Convencido da inocência de Harry, Marcus abandona tudo e parte para Aurora para conduzir a sua própria investigação. O objectivo é salvar a sua carreira, escrevendo um livro sobre o caso mais quente do ano, e dar resposta à incógnita que inquieta toda a América: Quem matou Nola Kellergan? «Toda a gente falava do livro. Esta é a primeira frase do romance \"A Verdade Sobre o Caso Harry Quebert\": uma profecia que se cumpriu, pois o livro de Joël Dicker já se transformou num fenómeno mundial.»"
+        },
+        {
+            "id": "",
+            "titulo": "A Anomalia",
+            "genero": "Policial e Thriller",
+            "autor": "Hervé le Tellier",
+            "lancamento": 2021,
+            "imagem": "/imagens/A-Anomalia.jpg",
+            "avaliacao": 4,
+            "resumo": "Em junho de 2021, um acontecimento muito estranho altera a vida de centenas de homens e mulheres, todos passageiros de um voo Paris-Nova Iorque. Entre eles: Blake, pai de família e assassino a soldo; Slimboy, popstar cansado de viver na mentira; Joanna, advogada de topo apanhada nos seus erros; ou Victor Miesel, ghostwriter transformado em autor de culto. Todos acreditam ter uma vida secreta. Nenhum deles imagina a que ponto isso pode ser verdade. Algo de muito estranho está prestes a acontecer. A Anomalia é, em simultâneo, page-turner, thriller e um romance literário que explora aquela parte de nós que… nos escapa."
+        },
+        {
+            "id": "",
+            "titulo": "Fahrenheit 451",
+            "genero": "Ficção Científica",
+            "autor": "Ray Bradbury",
+            "lancamento": 1953,
+            "imagem": "/imagens/fahrenheit.jpg",
+            "avaliacao": 4,
+            "resumo": "COM UMA MENSAGEM MAIS RELEVANTE DO QUE NUNCA, VENHA DESCOBRIR O CLÁSSICO PROFÉTICO DE RAY BRADBURY SOBRE O PODER DA RESISTÊNCIA À TIRANIA POLÍTICA. Guy Montag é um bombeiro. O seu emprego consiste em destruir livros proibidos e as casas onde esses livros estão escondidos. Ele nunca questiona a destruição causada, e no final do dia regressa para a sua vida apática com a esposa, Mildred, que passa o dia imersa na televisão."
+        },
+        {
+            "id": "",
+            "titulo": "Os 100",
+            "genero": "Ficção Científica",
+            "autor": "Kass Morgan",
+            "lancamento": 2013,
+            "imagem": "/imagens/os-100.jpg",
+            "avaliacao": 3,
+            "resumo": "Há muito tempo, a superfície da Terra foi arrasada por uma guerra nuclear. Os poucos sortudos que conseguiram sobreviver refugiaram-se a bordo da Colónia, uma estação espacial que orbita o planeta. Cem anos após ter sido a salvação da Humanidade, a Colónia está em perigo. Os aparelhos que garantem a renovação do oxigénio na estação espacial estão a falhar, e não há como os substituir. A última esperança da Humanidade reside em 100 jovens selecionados entre criminosos, para regressar à superfície da Terra e descobrir se o planeta pode de novo ser habitado. Depois de tanto tempo, estes serão os primeiros humanos a pisar a Terra. Mas estarão na verdade sozinhos? Terão todos os seres vivos perecido durante o longo inverno nuclear, ou será que algo se esconde nas sombras das grandes florestas que agora cobrem toda a Terra?"
+        },
+        {
+            "id": "",
+            "titulo": "2001 - Odisseia no Espaço",
+            "genero": "Ficção Científica",
+            "autor": "Arthur C. Clarke",
+            "lancamento": 1968,
+            "imagem": "/imagens/2001-Odisseia-no-Espaco.jpg",
+            "avaliacao": 3,
+            "resumo": "O clássico de ficção científica que revolucionou a forma como olhamos para as estrelas e para nós próprios Estamos no início do século XXI e a Discovery viaja a cento e cinquenta mil quilómetros por hora no espaço. A bordo da nave espacial viajam navegadores, astronautas e Hal, um supercomputador cujo funcionamento cognitivo rivaliza com a mente humana. No entanto, a missão é ameaçada quando Hal começa a falhar. Será um problema técnico? E que influência tem o monólito encontrado na Lua? Com estas perguntas surgem outras: que lugar ocupa o Homem na complexa estrutura do infinito? O que é o tempo, a vida, a morte? 2001: Odisseia no Espaço é uma viagem espacial de tirar o fôlego na busca por evidências de que o ser humano não está sozinho no cosmos. Uma expedição aos confins do Universo e da alma, na qual passado, presente e futuro se mesclam num contínuo enigmático. Um extraordinário romance épico, com um amplo leque de interpretações e que permanece como um dos grandes clássicos da ficção científica."
+        },
+        {
+            "id": "",
+            "titulo": "Exalação",
+            "genero": "Ficção Científica",
+            "autor": "Ted Chiang",
+            "lancamento": 2020,
+            "imagem": "/imagens/exalacao.jpg",
+            "avaliacao": 3,
+            "resumo": "Nestes nove contos, Ted Chiang aborda algumas das questões mais antigas da Humanidade, assim como novos dilemas que só ele conseguiria imaginar. Em Exalação, um cientista alienígena faz uma descoberta com ramificações universais. "
+        },
+        {
+            "id": "",
+            "titulo": "O Jogo Final",
+            "genero": "Ficção Científica",
+            "autor": "Orson Scott Card",
+            "lancamento": 2003,
+            "imagem": "/imagens/O-Jogo-Final.jpg",
+            "avaliacao": 4,
+            "resumo": "O Jogo Final é uma obra soberba que tem como protagonista Ender Wiggin, um rapazinho de seis anos de idade em quem o governo da Terra deposita todas as esperanças. No espaço interplanetário, um exército extraterrestre de insectóides ameaça aniquilar para sempre a humanidade. Desesperados, os homens desenvolvem um programa de defesa que consiste no treino intensivo de crianças sobredotadas com vista a torná-las verdadeiros génios militares. Ender é um génio entre os génios, o único que pode garantir a sobrevivência da grande família humana. Mas será Ender suficientemente forte para se salvar a si próprio do precipício da loucura? Um livro empolgante, que nos fala da força e da fragilidade da condição humana. Reconhecido com o Le Grand Prix de l’Imaginaire 2000, Orson Scott Card recebeu ainda, com o presente livro, o Nebula Award em 1985 e o Hugo Award em 1986. O Jogo Final tem agora uma versão cinematográfica protagonizada por Abigail Breslin, Harrison Ford e Ben Kingsley."
+        },
+        {
+            "id": "",
+            "titulo": "A Rapariga Que Roubava Livros",
+            "genero": "Drama",
+            "autor": "Markus Zusak",
+            "lancamento": 2005,
+            "imagem": "/imagens/A-Rapariga-Que-Roubava-Livros.jpg",
+            "avaliacao": 4,
+            "resumo": "Quando a morte nos conta uma história temos todo o interesse em escutá-la. Assumindo o papel de narrador em A Rapariga Que Roubava Livros, vamos ao seu encontro na Alemanha, por ocasião da segunda guerra mundial, onde ela tem uma função muito activa na recolha de almas vítimas do conflito. E é por esta altura que se cruza pela segunda vez com Liesel, uma menina de nove anos de idade, entregue para adopção, que já tinha passado pelos olhos da morte no funeral do seu pequeno irmão. Foi aí que Liesel roubou o seu primeiro livro, o primeiro de muitos pelos quais se apaixonará e que a ajudarão a superar as dificuldades da vida, dando um sentido à sua existência. Quando o roubou, ainda não sabia ler, será com a ajuda do seu pai, um perfeito intérprete de acordeão que passará a saber percorrer o caminho das letras, exorcizando fantasmas do passado. Ao longo dos anos, Liesel continuará a dedicar-se à prática de roubar livros e a encontrar-se com a morte, que irá sempre utilizar um registo pouco sentimental embora humano e poético, atraindo a atenção de quem a lê para cada frase, cada sentido, cada palavra. Um livro soberbo que prima pela originalidade e que nos devolve um outro olhar sobre os dias da guerra no coração da Alemanha e acima de tudo pelo amor à literatura."
+        },
+        {
+            "id": "",
+            "titulo": "Os Miseráveis",
+            "genero": "Drama",
+            "autor": "Victor Hugo",
+            "lancamento": 1862,
+            "imagem":"/imagens/Os-Miseraveis.jpg",
+            "avaliacao": 4,
+            "resumo": "A personagem principal é João Valjean, tímido camponês que, vendo-se sem modo de ganhar a vida, para matar a fome aos filhos de sua irmã roubou um pão, sendo condenado por isso a trabalhos forçados nas galés. Pena que não cumpriu integralmente, por fuga, sendo perseguido de maneira implacável pelo inspector Javert, homem de carácter severo, cujo dever estava acima de qualquer outro sentimento. Convivendo entre os miseráveis, os que vivam no submundo da pobreza e do crime, tornou a sua vida numa obsessão para proteger Cosetta, uma infeliz criança que não chegara a conhecer a sua mãe."
+        },
+        {
+            "id": "",
+            "titulo": "Diário de Anne Frank",
+            "genero": "Drama",
+            "autor": "Anne Frank",
+            "lancamento": 1947,
+            "imagem": "/imagens/O-Diario-de-Anne-Frank.jpg",
+            "avaliacao": 5,
+            "resumo": "Escrito entre 12 de junho de 1942 e 1 de agosto de 1944, O Diário de Anne Frank foi publicado pela primeira vez em 1947, por iniciativa de seu pai, revelando ao mundo o dia a dia de dois longos anos de uma adolescente forçada a esconder-se, juntamente com a sua família e um grupo de outros judeus, durante a ocupação nazi da cidade de Amesterdão.Todos os que se encontravam naquele pequeno anexo secreto acabaram por ser presos em agosto de 1944, e em março de 1945 Anne Frank morreu no campo de concentração de Bergen-Belsen, a escassos dois meses do final da guerra na Europa. O seu diário tornar-se-ia um dos livros de não ficção mais lidos em todo o mundo, testemunho incomparável do terror da guerra e do fulgor do espírito humano."
+        },
+        {
+            "id": "",
+            "titulo": "O Rapaz do Pijama ás Riscas",
+            "genero": "Drama",
+            "autor": "John Boyne",
+            "lancamento": 2006,
+            "imagem": "/imagens/O-Rapaz-do-Pijama-as-Riscas.jpg",
+            "avaliacao": 4,
+            "resumo": "Ao regressar da escola um dia, Bruno constata que as suas coisas estão a ser empacotadas. O seu pai tinha sido promovido no trabalho e toda a família tem de deixar a luxuosa casa onde vivia e mudar-se para outra cidade, onde Bruno não encontra ninguém com quem brincar nem nada para fazer. Pior do que isso, a nova casa é delimitada por uma vedação de arame que se estende a perder de vista e que o isola das pessoas que ele consegue ver, através da janela, do outro lado da vedação, as quais, curiosamente, usam todas um pijama às riscas. Como Bruno adora fazer explorações, certo dia, desobedecendo às ordens expressas do pai, resolve investigar até onde vai a vedação. É então que encontra um rapazinho mais ou menos da sua idade, vestido com o pijama às riscas que ele já tinha observado, e que em breve se torna o seu melhor amigo…"
+        },
+        {
+            "id": "",
+            "titulo": "O Tatuador de Auschwitz",
+            "genero": "Drama",
+            "autor": "Heather Morris",
+            "lancamento": 2018,
+            "imagem": "/imagens/O-Tatuador-De-Auschwitz.jpg",
+            "avaliacao": 5,
+            "resumo": "Esta é a história assombrosa do tatuador de Auschwitz e da mulher que conquistou o seu coração - um dos episódios mais extraordinários e inesquecíveis do Holocausto.Em 1942, Lale Sokolov chega a Auschwitz-Birkenau. Ali é incumbido da tarefa de tatuar os prisioneiros marcados para sobreviver - gravando uma sequência de números no braço de outras vítimas como ele - com uma tinta indelével. Era assim o processo de criação daquele que veio a tornar -se um dos símbolos mais poderosos do Holocausto.À espera na fila pela sua vez de ser tatuada, aterrorizada e a tremer, encontra-se Gita. Para Lale, um sedutor, foi amor à primeira vista. Ele está determinado não só a lutar pela sua própria sobrevivência mas também pela desta jovem.Um romance baseado em entrevistas que Heather Morris fez ao longo de diversos anos a Ludwig (Lale) Sokolov, vítima do Holocausto e tatuador em Auschwitz-Birkenau. Uma história de amor e sobrevivência no meio dos horrores de um campo de concentração, que agradará a um vasto universo de leitores, em especial aos que leram A Lista de Schindler e O Rapaz do Pijama às Riscas, e que nos mostra de forma pungente e emocionante como o melhor da natureza humana se revela por vezes nas mais terríveis circunstâncias."
+        },
+        {
+            "id": "",
+            "titulo": "À Mesa com os Filósofos",
+            "genero": "Filosofia",
+            "autor": "Normand Baillargeon",
+            "lancamento": 2019,
+            "imagem": "/imagens/A-Mesa-com-os-Filosofos.png",
+            "avaliacao": 5,
+            "resumo": "Alimentar-se é uma necessidade que transformámos num prazer, em torno da qual elaborámos rituais e que nos convida a todos a interrogarmo-nos e a tornarmo-nos um pouco filósofos».  À Mesa com os Filósofos é dedicado às inúmeras ligações entre a comida e a filosofia. Bastante mais frequentado do que se possa pensar, este é um domínio de estudo dos mais apetecíveis. Na realidade, para pensar a alimentação, mobilizamos um grande número de disciplinas filosóficas, nomeadamente a ética (devemos comer carne de animais ou abster-nos de o fazer?), a estética (a culinária é uma arte ao mesmo nível que a pintura ou a música?), a epistemologia (os juízos de gosto são puramente subjetivos ou educáveis?) ou a política (devemos deixar impor-se o comércio alimentar mundial ou preferir, em seu lugar, o locavorismo?). «Um livro que reconforta o nosso espírito e o nosso estômago."
+        },
+        {
+            "id": "",
+            "titulo": "Filosofia para Pessoas com Pressa",
+            "genero": "Filosofia",
+            "autor": "Lesley Levene",
+            "lancamento": 2019,
+            "imagem": "/imagens/Filosofia-para-Pessoas-com-Pressa.jpg",
+            "avaliacao": 4,
+            "resumo": "O livro Filosofia para Pessoas com Pressa é o manual ideal para eliminar o receio pela filosofia. Escrito num estilo acessível e extremamente interessante, este livro explica como é que a filosofia começou, porquê, e de que modo - desde a democracia grega ao comunismo."
+        },
+        {
+            "id": "",
+            "titulo": "Para que serve a filosofia?",
+            "genero": "Filosofia",
+            "autor": "Mary Midgley",
+            "lancamento": 2019,
+            "imagem": "/imagens/Para-que-serve-a-filosofia.jpg",
+            "avaliacao": 4,
+            "resumo":"Tendo como base contextual os  debates contemporâneos sobre ciência, religião e filosofia, Midgley reflete sobre as razões porque considera  absolutamente indispensável continuar a estudar e a ensinar-se filosofia nos dias que correm. Desta reflexão, resulta uma defesa não só da filosofia mas da vida da mente, algo que tende a ser progressivamente desvalorizado num mundo cada vez mais materialista e consumista. Para além disso, responde à questão muitas vezes colocada por aqueles que se deixam intimidar pelo discurso frequentemente abstrato do pensamento filosófico: para que serve a filosofia?"
+        },
+        {
+            "id": "",
+            "titulo": "O que são o Bem e o Mal?",
+            "genero": "Filosofia",
+            "autor": "Oscar Brenifier",
+            "lancamento": 2010,
+            "imagem": "/imagens/O-que-sao-o-bem-e-o-mal.jpg",
+            "avaliacao": 4,
+            "resumo": "Em O que são o Bem e o Mal? , há seis grandes questões para jogar com as ideias e ver para lá das aparências. “Tens o direito de roubar para comer? Deves ser simpático com os outros? Deves obedecer sempre aos teus pais? Deves dizer tudo? Deves fazer sempre aquilo que queres? Deves ajudar os outros?” Para cada uma destas questões, são apresentadas várias respostas mas todas elas são objeto de novas perguntas."
+        },
+        {
+            "id": "",
+            "titulo": "História da Filosofia Ocidental",
+            "genero": "Filosofia",
+            "autor": "Bertrand Russell",
+            "lancamento": 2017,
+            "imagem": "/imagens/Historia-da-Filosofia_Ocidental.jpg",
+            "avaliacao": 3,
+            "resumo": "História da Filosofia Ocidental é um livro incontornável para qualquer um que queira aventurar-se pelos caminhos da filosofia. Escrito numa prosa de uma clareza sem par nos livros deste género, esta apresenta uma visão  abrangente das principais figuras do pensamento Ocidental, contando, muitas vezes certas peculiaridades da vida de cada um que os torna mais humanos aos olhos do leitor."
+        },
+        {
+            "id": "",
+            "titulo": "O Pequeno Livro do Investimento",
+            "genero": "Economia",
+            "autor": "John C. Bogle",
+            "lancamento": 2021,
+            "imagem": "/imagens/O-Pequeno-Livro-Do-Investimento.jpg",
+            "avaliacao": 3,
+            "resumo": "O Pequeno Livro do Investimento é a bíblia para uma performance inteligente no mercado financeiro. Fundador da gestora americana Vanguard, John C. Bogle revela neste livro a chave para o melhor desempenho, descrevendo o que considera a estratégia mais simples e eficiente: os fundos de índice. Este livro mudará totalmente a forma como pensa os investimentos, dando-lhe um conhecimento profundo sobre o mercado financeiro e as ferramentas práticas de que precisa para ser bem-sucedido."
+        },
+        {
+            "id": "",
+            "titulo": "7 Segredos para Investir Como Warren Buffett",
+            "genero": "Economia",
+            "autor": "Mary Buffett",
+            "lancamento": 2021,
+            "imagem": "/imagens/7-Segredos.jpg",
+            "avaliacao": 5,
+            "resumo": "Um guia indispensável para investidores iniciantes que queiram garantir sucesso no curto e no longo prazo. Warren Buffett é o 4º homem mais rico do mundo e é considerado o mais bem-sucedido investidor do século XX no mundo inteiro. Tem a alcunha de O Oráculo, por ser sempre o primeiro a ser chamado para comentar os acontecimentos económicos e toma frequentemente decisões que antecipam o movimento dos mercados de investimento.."
+        },
+        {
+            "id": "",
+            "titulo": "Economia Para Todos",
+            "genero": "Economia",
+            "autor": "David A. Moss",
+            "lancamento": 2016,
+            "imagem": "/imagens/Economia-para-Todos.jpg",
+            "avaliacao": 4,
+            "resumo": "Neste livro, o professor David A. Moss apresenta, de forma simples e acessível, a teoria e prática económicas. Com explicações sobre os principais fenómenos que ajudam a moldar a economia global, este livro ajuda a clarificar os conceitos fundamentais que afetam os riscos e as recompensas das decisões tomadas todos os dias pelos executivos e pelos gestores."
+        },
+        {
+            "id": "",
+            "titulo": "O Padrão Bitcoin",
+            "genero": "Economia",
+            "autor": "Saifedean Ammous",
+            "lancamento": 2020,
+            "imagem": "/imagens/O-Padrao-Bitcoin.jpg",
+            "avaliacao": 5,
+            "resumo": "Em O Padrão Bitcoin, o economista Saifedean Ammous acompanha o leitor através da história fascinante das tecnologias do dinheiro e explora o que atribuiu a essas tecnologias o seu papel monetário, como o perderam, o que isso nos ensina sobre as desejáveis características do dinheiro, e como o Bitcoin está concebido para melhorar aquelas tecnologias."
+        },
+        {
+            "id": "",
+            "titulo": "Pai Rico, Pai Pobre",
+            "genero": "Economia",
+            "autor": "Robert Kiyosaki",
+            "lancamento": 1997,
+            "imagem": "/imagens/Pai-Rico-Pai-Pobre.jpg",
+            "avaliacao": 5,
+            "resumo": "O conceito é muito simples: com maior inteligência financeira muitos problemas comuns da vida cotidiana podem ser resolvidos. Saiba o que os ricos tratam como ativos geradores de renda, e como se livrar de pagar impostos demais. Sem treinamento financeiro, frequentemente recorremos a fórmulas padronizadas para levar a vida, como trabalhar com afinco, poupar, fazer empréstimos. Segundo o autor, cada indivíduo tem o poder de determinar o destino do dinheiro que chega às mãos. A escolha é de cada um. A cada dia, a cada nota, decidimos ser rico, pobre ou classe média. A melhor maneira de preparar seus filhos para o mundo é dividir esse conhecimento com eles. Se você não fizer isso, ninguém mais fará. Determine o destino do dinheiro que chega às suas mãos com a leitura desse livro."
+        },
+        {
+            "id": "",
+            "titulo": "Manifesto Comunista",
+            "genero": "Política",
+            "autor": "Karl Marx",
+            "lancamento": 2016,
+            "imagem": "/imagens/Manifesto-Comunista.jpg",
+            "avaliacao": 3,
+            "resumo": "Este é, duplamente, um livro de intervenção. Por apresentar o texto integral, em nova tradução, de O Manifesto Comunista, que Marx e Engels escreveram em 1848, para oferecerem um corpo teórico, um guia, às fogueiras da revolução que ardiam por todas as nações da Europa."
+        },
+        {
+            "id": "", 
+            "titulo": "O contrato social",
+            "genero": "Política",
+            "autor": "Jacques Rousseau",
+            "lancamento": 2016,
+            "imagem": "/imagens/O-Contrato-Social.jpg",
+            "avaliacao": 5,
+            "resumo": "Partindo do mesmo pressuposto de Hobbes e outros, o autor suíço aponta que o problema não é o homem, e sim a sociedade na qual vive. Esta o obriga a se degenerar. Claro, a complexidade desse resumo, assim como dos outros, não chega às obras de fato. No entanto, é interessante ver uma ideia ser discutida a partir de outro de ponto de vista (social, histórico e político) e notar quais são as implicações na política apresentada por ambos."
+        },
+        {
+            "id": "",
+            "titulo": "O Príncipe",
+            "genero": "Política",
+            "autor": "Nicolau Maquiavel",
+            "lancamento": 2015,
+            "imagem": "/imagens/O-Principe.jpg",
+            "avaliacao": 5,
+            "resumo": "Um tratado clássico sobre a política ou a arte de bem governar que, embora tenha sido escrito no século XVI, mantém toda a sua atualidade, podendo facilmente transpor-se para os dias de hoje. Inspirado na figura de César Bórgia e na admiração desmedida que manifestava por ele, Maquiavel faz uma abordagem racional para aconselhar os aspirantes a líderes, desenvolvendo argumentos lógicos e alternativas para uma série de potenciais problemas, a forma de lidar com os domínios adquiridos e o tratamento a dar aos povos conquistados, de modo consolidar o poder. Obra de referência e de um pragmatismo radical e implacável."
+        },
+        {
+            "id": "",
+            "titulo": "A riqueza das nações, Adam Smith",
+            "genero": "Política",
+            "autor": "Adam Smith",
+            "lancamento": 1776,
+            "imagem":"/imagens/A-riqueza-das-nacoes.jpg",
+            "avaliacao": 3,
+            "resumo": "Mesmo sendo uma obra mais voltada à economia do que à política, não deixa de ser interessante de ver como Adam Smith, ao analisar e projetar o nascente capitalismo, percebeu, e até mesmo apontou, a sua interdependência com a política, os problemas dessa relação incestuosa e as consequências negativas para um e outro quando o contato feito foca apenas a vantagem individual."
+        },
+        {
+            "id": "",
+            "titulo": "Da Democracia na América",
+            "genero": "Política",
+            "autor": "Alexis de Tocqueville",
+            "lancamento": 1835,
+            "imagem": "/imagens/Da-Democracia-na-America.jpg",
+            "avaliacao": 4,
+            "resumo": "Uma longa e complexa visão sobre o novo sistema, mostrando que a propensa liberdade talvez seja mais um artificio político da democracia do que um fato real, Democracia na América nos apresenta muito bem o que era o jogo político dos homens livres. Além disso, previu por meio da observação, que esta nação, bem como a Rússia, teriam papel importante na atuação política do mundo inteiro."
+        }
+    ]
+  
+}
